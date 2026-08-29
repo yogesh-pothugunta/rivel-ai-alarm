@@ -1,0 +1,6 @@
+{
+  "name": "RIVEL",
+  "description": "Student-only productivity and study companion: Wake, Focus, Learn, Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
